@@ -8,7 +8,7 @@
 ## Introduction to the Project
 
 - This is a project which can help to start learning MERN stack, I have cloned and now making changes and refactoring the original code.
-- For more info please visit the authors video or blog
+- For more info please visit the author's video or blog
 
 ## Good to have
 
